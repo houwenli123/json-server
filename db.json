@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "hwl",
+      "phone": "15245574588",
+      "email": "4395549@qq.com",
+      "id": 3,
+      "age": 28,
+      "companyId": 3,
+      "others": [
+        {
+          "hobby": "reading"
+        }
+      ]
+    },
+    {
+      "name": "Lilt",
+      "phone": "15245574588",
+      "email": "4395549@qq.com",
+      "id": 4,
+      "age": 31,
+      "companyId": 3,
+      "others": [
+        {
+          "hobby": "eat"
+        }
+      ]
+    },
+    {
+      "name": "qwe",
+      "phone": "15245785454",
+      "email": "3243",
+      "id": 5
+    },
+    {
+      "name": "qwe",
+      "phone": "15245785454",
+      "email": "3243",
+      "id": 6
+    },
+    {
+      "name": "qwe",
+      "phone": "15245785454",
+      "email": "3243",
+      "id": 7
+    },
+    {
+      "name": "12",
+      "phone": "123",
+      "email": "1312",
+      "education": "3132",
+      "id": 8
+    },
+    {
+      "name": "werw",
+      "phone": "rqwqw",
+      "email": "qrw",
+      "id": 9
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good"
+    },
+    {
+      "id": 2,
+      "name": "Micrisoft",
+      "description": "Micrisoft is good"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good"
+    }
+  ]
+}
